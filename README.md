@@ -17,8 +17,6 @@ Traditional CCTV surveillance systems rely heavily on manual monitoring, which l
 **Processing:** YOLO-based real-time inference on Jetson Nano  
 **Output:** Visual overlays and alert triggers (intrusion, fire, motion, segmentation)
 
-![Architecture](assets/architecture.png)
-
 
 ---
 
@@ -44,12 +42,11 @@ Traditional CCTV surveillance systems rely heavily on manual monitoring, which l
 - Optimized processing pipeline resulting in **~35% improvement in inference efficiency**
 - Designed for low-latency edge alerts
 
-📌 *(Add FPS / latency metrics here if available)*
 
 ---
 
 ## Demo Results
-![Detection Output](assets/detection_output.png)
+![Detection Output](assets/)
 
 
 ---
